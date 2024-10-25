@@ -2,23 +2,43 @@
   "user": [
     {
       "id": 1,
-      "usuario": "usuario1"
+      "usuario": "jdoe",
+      "nome_real": "John Doe",
+      "email": "johndoe@example.com",
+      "idade": 28,
+      "telefone": "+1-555-1234-567"
     },
     {
       "id": 2,
-      "usuario": "usuario2"
+      "usuario": "msmith",
+      "nome_real": "Maria Smith",
+      "email": "maria.smith@example.com",
+      "idade": 34,
+      "telefone": "+1-555-2345-678"
     },
     {
       "id": 3,
-      "usuario": "usuario3"
+      "usuario": "alex.j",
+      "nome_real": "Alex Johnson",
+      "email": "alexj@example.com",
+      "idade": 22,
+      "telefone": "+1-555-3456-789"
     },
     {
       "id": 4,
-      "usuario": "usuario4"
+      "usuario": "lroberts",
+      "nome_real": "Laura Roberts",
+      "email": "laura.roberts@example.com",
+      "idade": 41,
+      "telefone": "+1-555-4567-890"
     },
     {
       "id": 5,
-      "usuario": "usuario5"
+      "usuario": "bperez",
+      "nome_real": "Bruno Perez",
+      "email": "bruno.perez@example.com",
+      "idade": 30,
+      "telefone": "+1-555-5678-901"
     }
   ]
 }
